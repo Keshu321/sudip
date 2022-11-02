@@ -1,8 +1,8 @@
-##Team United 
+## Team United 
 
-##TurtleBot3
+## TurtleBot3
 
-##1. PC Setup
+## 1. PC Setup
 
 Firstly we needed to install the ROS 2 on our remote PC i.e. virtual machine. It was done previously so we didnt need to re-do that.
 
